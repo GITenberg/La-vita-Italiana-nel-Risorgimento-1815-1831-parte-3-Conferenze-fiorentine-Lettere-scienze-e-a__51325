@@ -1,0 +1,31 @@
+_repo: La-vita-Italiana-nel-Risorgimento-1815-1831-parte-3-Conferenze-fiorentine-Lettere-scienze-e-a__51325
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2016-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51325'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- Civilization -- 19th century'
+- !lcsh 'Italy -- History -- 1815-1870'
+- !lcsh 'Italian literature -- 19th century'
+- GITenberg
+tableOfContents: 'Lettere, scienze e arti: Il romanticismo / Enrico Panzacchi -- Alessandro
+  Manzoni / Romualdo Bonfadini -- L''Italia di Stendhal / Matilde Serao -- [Allesandro]
+  Volta e le scoperte scientifiche / Giuseppe Colombo -- Musica e belle arti / Corrado
+  Ricci.'
+title: "La vita Italiana nel Risorgimento (1815-1831), parte 3\r\nConferenze fiorentine\
+  \ - Lettere, scienze e arti"
+url: http://www.gutenberg.org/ebooks/51325
